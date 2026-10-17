@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi El Niño & Veo Video Animator",
+  "description": "Simulasi interaktif fenomena El Niño, dinamika Sirkulasi Walker, pelemahan angin pasat, dan hambatan upwelling, dilengkapi fitur AI Veo Video Animator untuk mengubah gambar iklim menjadi video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
